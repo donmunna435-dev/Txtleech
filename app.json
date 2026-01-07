@@ -24,7 +24,7 @@
             "required": true
         },
         "PORT": {
-            "description": "8080",
+            "description": "6969",
             "required": true
         }
     },
